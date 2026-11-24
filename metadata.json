@@ -1,0 +1,8 @@
+{
+  "name": "Ocean Paradise",
+  "description": "A premium homepage redesign tool for Ocean Paradise Zanzibar, enhancing visual elegance while preserving original branding and assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
